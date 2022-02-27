@@ -1,24 +1,20 @@
-# README
+# Build a RESTful JSON API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Configuration
 
-Things you may want to cover:
+Ruby: 3.1.1
 
-* Ruby version
+Rails: 7.0.2.2
 
-* System dependencies
+Tutorial:
+https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one
+https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-two
+https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-three
 
-* Configuration
+## Using API
 
-* Database creation
+Import the three json collection of postaman below:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Users](postman_json/Users.postman_collection.json)
+- [Todos](postman_json/Todos.postman_collection.json)
+- [Users](postman_json/Items.postman_collection.json)
